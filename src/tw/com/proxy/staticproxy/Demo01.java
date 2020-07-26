@@ -1,6 +1,7 @@
 package tw.com.proxy.staticproxy;
 
 //interface應用:靜態代理模式
+//特點:代理類和被代理類在編譯時期就確定下來
 public class Demo01 {
 	public static void main(String[] args) {
 		Server server = new Server();

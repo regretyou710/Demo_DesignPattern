@@ -86,7 +86,7 @@ class Proxy implements Star {
 
 	@Override
 	public void sing() {
-		realStar.sing();
+		realStar.sing();		
 	}
 
 	@Override
