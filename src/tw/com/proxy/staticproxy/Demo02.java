@@ -1,5 +1,8 @@
 package tw.com.proxy.staticproxy;
 
+/*
+ * 代理模式:靜態代理
+ */
 public class Demo02 {
 
 	public static void main(String[] args) {

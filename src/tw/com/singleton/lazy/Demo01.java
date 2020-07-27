@@ -1,5 +1,8 @@
 package tw.com.singleton.lazy;
 
+/*
+ * 單例模式
+ */
 public class Demo01 {
 
 	public static void main(String[] args) {
