@@ -1,6 +1,5 @@
 package tw.com.template;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+
 
 /*
  * 抽象類應用:模板方法設計模式
